@@ -7,8 +7,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-darkgreen?style=flat-round&logo=Minutemailer&logoColor=white)](https://linkedin.com/in/vincent-salamanca-gagnon-1a039ba1)
 
 
-- 🔭 Professional Software Developer using Kotlin
-<img src="https://user-images.githubusercontent.com/12116040/188333978-d9f60606-0a14-42b1-8ac2-99e20cce945a.svg" width="10" height="10">
+- 🔭 Professional Software Developer using Kotlin 
 - 🌎 Working remotly from Montréal/Canada
 - 🚀 Currently working on Back-end services and Developer tooling
 - 🌱 Learning to work in public
